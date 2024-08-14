@@ -30,7 +30,7 @@ const data = [
 	// { title: "Hello world!", description: "ELON: WOKENESS GIVES MEAN PEOPLE A SHIELD TO BE MEAN AND CRUEL" }, 
 	// { title: "Helo iwhfiuh hn ortms u iu yuy uyyn iuy yy y", description: "idrc" }, 
 	// { title: "ew", description: "3333333333333333333333333333333333333333" },
-]; 
+];
 
 
 // create .box elements
