@@ -62,14 +62,18 @@ header img {
 	font-size: 1.5em;
 }
 
-form textarea {
-	width: 100%;
+form textarea, input {
+	font-family: monospace;
 	box-sizing: border-box;
 	border-radius: 1em;
-	max-width: 100%;
-	min-width: 100%;
 	padding-inline: 0.5em;
 	background-color: lightcyan; 
+}
+
+form textarea {
+	width: 100%;
+	max-width: 100%;
+	min-width: 100%;
 }
 
 form textarea::-webkit-scrollbar {
